@@ -15,6 +15,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'react-rails', '~> 1.4.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+# Using this gem for user authentication login
+gem 'devise'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
